@@ -1,6 +1,4 @@
-### Salve! 👋
-
-<hr />
+## Salve! 🙋🏻
 
 ### 👨🏻 Sobre mim
 
@@ -50,6 +48,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0b5394?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 <!--
 **danielmnetto/danielmnetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
