@@ -2,7 +2,7 @@
 
 <hr />
 
-### Sobre mim
+### 👨🏻 Sobre mim
 
 - 👨‍💻 GameDev + Dev. Fullstack (React Native + NodeJS)
 
