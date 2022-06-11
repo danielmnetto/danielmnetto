@@ -1,5 +1,3 @@
-## Salve! 🙋🏻
-
 ### 👨🏻 Sobre mim
 
 - 👨‍💻 GameDev + Dev. Fullstack (React Native + NodeJS)
@@ -33,6 +31,8 @@
   <img src="https://img.shields.io/badge/MySQL-cfe2f3?style=for-the-badge&logo=mysql&logoColor=073763" />
   <img src="https://img.shields.io/badge/Java-e69138?style=for-the-badge&logo=java&logoColor=white" />
 </div>
+
+<br />
 
 - GameDev Engines
 
