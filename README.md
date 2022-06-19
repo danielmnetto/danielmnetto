@@ -13,7 +13,7 @@
 ### 📚 Atualmente estudando
 
 <div>
-  <img src="https://img.shields.io/badge/Unity-444444?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
 <hr />
