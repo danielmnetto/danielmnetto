@@ -7,15 +7,7 @@
 ### 📜 Formação
 
 - 💾 Bacharel em Sistemas de Informação
-
-<hr />
-
-### 📚 Atualmente estudando
-
-<div>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
+- 💾 Especialista em Projeto e Desenvolvimento de Jogos Digitais
 
 <hr />
 
@@ -51,17 +43,3 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0b5394?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-<!--
-**danielmnetto/danielmnetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
