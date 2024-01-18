@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.JS-38761d?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-cfe2f3?style=for-the-badge&logo=mysql&logoColor=073763" />
-  <img src="https://img.shields.io/badge/Java-e69138?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
 <br />
